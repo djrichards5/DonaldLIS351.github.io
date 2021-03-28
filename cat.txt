@@ -1,0 +1,22 @@
+<DOCTYPE html>
+<html>
+
+<head>
+<link rel="stylesheet" href="mystyle.css">
+<title> Cat </title>
+<meta charset ="utf-8">
+</head>
+
+<body>
+<nav>
+ <a href="index.html">Home</a>
+ <a href="Cat.html">Cat</a>
+ <a href="Movies.html">Movies</a>
+ <a href="Recipes.html">Recipes</a>
+ </nav>
+<h1> My Cat </h1>
+<p> A cute picture of my gray cat </p>
+<img> src:"Gray Cat.jpg" alt="Gray Cat">
+</body>
+
+</html>
